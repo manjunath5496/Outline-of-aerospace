@@ -1,7 +1,7 @@
 <h2> Outline of aerospace</h2>
 
 <p><strong><a title="Aerospace" href="https://en.wikipedia.org/wiki/Aerospace">Aerospace</a></strong>&nbsp;&ndash; comprises the&nbsp;<a title="Atmosphere" href="https://en.wikipedia.org/wiki/Atmosphere">atmosphere</a>&nbsp;of Earth and surrounding&nbsp;<a title="Space" href="https://en.wikipedia.org/wiki/Space">space</a>. Typically the term is used to refer to the&nbsp;<strong>aerospace industry</strong>, which researches, designs, manufactures, operates, and maintains vehicles moving through&nbsp;<a title="Aircraft" href="https://en.wikipedia.org/wiki/Aircraft">air</a>&nbsp;and&nbsp;<a title="Space exploration" href="https://en.wikipedia.org/wiki/Space_exploration">space</a>. The aerospace field is diverse, with a multitude of commercial, industrial, and military applications.</p>
-<div class="toclimit-2">
+</br>
   <div id="toc" class="toc"><strong>Contents</strong></div>
 
 <ul>

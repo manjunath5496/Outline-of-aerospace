@@ -2,8 +2,8 @@
 
 <p><strong><a title="Aerospace" href="https://en.wikipedia.org/wiki/Aerospace">Aerospace</a></strong>&nbsp;&ndash; comprises the&nbsp;<a title="Atmosphere" href="https://en.wikipedia.org/wiki/Atmosphere">atmosphere</a>&nbsp;of Earth and surrounding&nbsp;<a title="Space" href="https://en.wikipedia.org/wiki/Space">space</a>. Typically the term is used to refer to the&nbsp;<strong>aerospace industry</strong>, which researches, designs, manufactures, operates, and maintains vehicles moving through&nbsp;<a title="Aircraft" href="https://en.wikipedia.org/wiki/Aircraft">air</a>&nbsp;and&nbsp;<a title="Space exploration" href="https://en.wikipedia.org/wiki/Space_exploration">space</a>. The aerospace field is diverse, with a multitude of commercial, industrial, and military applications.</p>
 <div class="toclimit-2">
-<div id="toc" class="toc"><strong>Contents</strong>
-<div class="toctitle" dir="ltr" lang="en">&nbsp;</div>
+  <div id="toc" class="toc"><strong>Contents</strong></div>
+
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Essence_of_aerospace"><span class="toctext">Essence of aerospace</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Aerospace_industries_and_applications"><span class="toctext">Aerospace industries and applications</span></a></li>
@@ -14,8 +14,8 @@
 <li class="toclevel-1 tocsection-11"><a href="#General_aerospace_concepts"><span class="toctext">General aerospace concepts</span></a></li>
 <li class="toclevel-1 tocsection-12"><a href="#Persons_influential_in_aerospace"><span class="toctext">Persons influential in aerospace</span></a></li>
 </ul>
-</div>
-</div>
+
+</br>
 <h2><span id="Essence_of_aerospace" class="mw-headline">Essence of aerospace</span></h2>
 <p><a title="Aerospace" href="https://en.wikipedia.org/wiki/Aerospace">Aerospace</a></p>
 <ul>
